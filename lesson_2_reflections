@@ -1,1 +1,4 @@
-the metadata file .git is created which keeps track of all the changes made in the reprository
+the metadata file .git is created which keeps track of all the changes made in the reprository.
+
+staging area is a place where to collect stuff for the next commit - it allows to only do partial commits of my entire working area
+
