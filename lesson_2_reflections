@@ -2,3 +2,4 @@ the metadata file .git is created which keeps track of all the changes made in t
 
 staging area is a place where to collect stuff for the next commit - it allows to only do partial commits of my entire working area
 
+I can do one commit per logical change by just adding single files to the "transit" are
