@@ -5,3 +5,5 @@ staging area is a place where to collect stuff for the next commit - it allows t
 I can do one commit per logical change by just adding single files to the "transit" are
 
 Witch branches i can explore test-version
+
+Diagrams allow to easily capture the branch structure
